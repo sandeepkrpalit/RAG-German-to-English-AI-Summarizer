@@ -1,0 +1,7 @@
+langchain
+openai
+chromadb
+sentence-transformers
+pypdf2
+streamlit
+googletrans==4.0.0-rc1

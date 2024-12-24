@@ -1,4 +1,4 @@
-from app.pdf_handler import extract_text_from_pdf
+from app.pdf_handlers import extract_text_from_pdf
 from app.translator import translate_text
 from app.embeddings_store import create_vector_store, get_retrieval_qa_chain
 

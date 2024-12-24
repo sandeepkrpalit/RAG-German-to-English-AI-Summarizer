@@ -9,10 +9,14 @@ setup(
     install_requires=[
         "langchain",
         "openai",
+        "PyPDF2",
+        "python-dotenv",
         "chromadb",
-        "sentence-transformers",
-        "pypdf2",
-        "streamlit",
-        "googletrans==4.0.0-rc1"
+        "streamlit"
     ],
+    entry_points={
+        "console_scripts": [
+            "langsumm=app.app:main"
+        ]
+    },
 )

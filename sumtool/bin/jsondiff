@@ -1,4 +1,4 @@
-#!/Users/sandeepkumarpalit/Desktop/DATASCIENCE/7_GenAI_Projects/RAG-German-to-English-AI-Summarizer/sumtool/bin/python3
+#!/Users/sandeepkumarpalit/Desktop/DATASCIENCE/7_GenAI_Projects/RAG-German-to-English-AI-Summarizer/sumtool/bin/python3.11
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function

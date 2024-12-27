@@ -4,3 +4,10 @@ PyPDF2
 python-dotenv
 chromadb
 streamlit
+sentence-transformers
+transformers
+torch
+sentencepiece
+langchain-community
+watchdog
+langchain_openai
